@@ -29,7 +29,9 @@ https://onedrive.baxx.eu.org/api/raw/?path=/Ri/ripro-v2.zip
 1、搭建一个网站，绑定ritheme.com域名，并开启SSL（随便找个域名的证书就行），上传以下源码
 https://onedrive.baxx.eu.org/api/raw/?path=/Ri/ripro-api.zip
 3、修改hosts指向该服务器IP，修改/etc/hosts，加上一行
+```
 127.0.0.1 ritheme.com
+```
 4、访问刚才源码中的keygen.php，用于生成授权码和token
 5、使用生成的授权码进行激活
 
