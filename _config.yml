@@ -106,3 +106,8 @@ deploy:
   type: git
   repo: git@github.com:leeeawa/page.git
   branch: main
+
+lazyload:
+  enable: true
+  onlypost: false
+  loadingImg: https://img.baxx.eu.org/loading.gif
