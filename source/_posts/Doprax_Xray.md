@@ -11,7 +11,7 @@ tags:
 	- Shadowsocks
 	- vpn
 
-categories: 技术教程
+categories: 免费资源
 ---
 ![](https://img.baxx.eu.org/202301272114713.png)
 Doprax是一家云提供商，它使网站和Web应用程序的部署和托管变得简单。只要把你的代码上传到GitHub，其余的将由Doprax完成。您可以将任何类型的网站和web应用程序部署到Doprax。从简单的hello世界到复杂的web应用程序。Doprax提供了数据库、搜索引擎和缓存等多种服务
