@@ -47,6 +47,7 @@ categories: 免费资源
   | NEZHA_SERVER | 否 |        | 哪吒探针服务端的 IP 或域名 |
   | NEZHA_PORT   | 否 |        | 哪吒探针服务端的端口 |
   | NEZHA_KEY    | 否 |        | 哪吒探针客户端专用 Key |
+ 
 8.按照下图配置
 ![](https://img.baxx.eu.org/202302112227284.png)
 
