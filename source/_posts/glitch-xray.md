@@ -6,8 +6,8 @@ tags:
 	- xray
 	- vpn
 	- v2ray
-  - trojan
-  - ss
+  	- trojan
+  	- ss
 categories: 免费资源
 ---
 在Glitch上部署Xray节点
