@@ -6,15 +6,15 @@ tags:
 	- xray
 	- vpn
 	- v2ray
-  - trojan
-  - ss
+ 	- trojan
+  	- ss
 categories: 免费资源
 ---
 在Deepnote上部署xray节点
 <!--more-->
-准备材料
+## 准备材料
 一枚邮箱（最好是大厂邮箱）
-部署步骤
+## 部署步骤
 1.打开Deepnote官网：https://deepnote.com/ ，点击“Get started”进行注册账户。如有账号点击“Sign in”进行登录
 ![](https://img.baxx.eu.org/202302121304598.png)
 
